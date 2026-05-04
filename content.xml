@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>2026050315084665OYLI</value>
+    <value>20260504183530V4FA77</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>20260503150846JIN7ZW</value>
+    <value>20260504183530VIQKUY</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -60,7 +60,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776096191544</value>
+    <value>1777908882204</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -76,7 +76,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_addAccessibilityToolbar</key>
-    <value>false</value>
+    <value>true</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addMathJax</key>
@@ -287,11 +287,11 @@
           <odeIdeviceId>idevice-1776098056777-by7xeb4ym</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p> <img src="{{context_path}}/content/resources/istockphoto-1437972104-1024x1024.jpg" width="205" height="167" alt="" /></p>
+    <p> </p>
 <p>- Escribir distintos tipos de textos.</p>
 <p>- Organizar ideas antes de escribir.<br />- Revisar y mejorar nuestros textos.<br />- Utilizar herramientas digitales para escribir.<br />-Publicar nuestros trabajos.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098056777-by7xeb4ym","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <img src=\"{{context_path}}/content/resources/istockphoto-1437972104-1024x1024.jpg\" width=\"205\" height=\"167\" alt=\"\" /></p>\n<p>- Escribir distintos tipos de textos.</p>\n<p>- Organizar ideas antes de escribir.<br />- Revisar y mejorar nuestros textos.<br />- Utilizar herramientas digitales para escribir.<br />-Publicar nuestros trabajos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098056777-by7xeb4ym","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> </p>\n<p>- Escribir distintos tipos de textos.</p>\n<p>- Organizar ideas antes de escribir.<br />- Revisar y mejorar nuestros textos.<br />- Utilizar herramientas digitales para escribir.<br />-Publicar nuestros trabajos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -393,11 +393,11 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>A continuación puedes ver una infografía con las normas más importantes para proteger tus datos personales en internet.</p>
-<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Infografía consejos para emprender tecnológico brillante azul.png" title="Infografía" width="800" height="2000" alt="" />
-<figcaption class="figcaption"><span class="author">canva</span>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Infografía consejos para emprender tecnológico brillante azul.png" width="800" height="2000" alt="" />
+<figcaption class="figcaption"><span class="author">Ana Becerra Ruiz</span>. <span class="title"><em>Infografía digital</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098391411-9bwwk6yin","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación puedes ver una infografía con las normas más importantes para proteger tus datos personales en internet.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Infografía consejos para emprender tecnológico brillante azul.png\" title=\"Infografía\" width=\"800\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">canva</span>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776098391411-9bwwk6yin","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación puedes ver una infografía con las normas más importantes para proteger tus datos personales en internet.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Infografía consejos para emprender tecnológico brillante azul.png\" width=\"800\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Becerra Ruiz</span>. <span class=\"title\"><em>Infografía digital</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -812,11 +812,11 @@
           <odeIdeviceId>idevice-1776100456890-i96gcfxwl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/1.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/1.png" width="1414" height="2000" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100456890-i96gcfxwl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/1.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100456890-i96gcfxwl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/1.png\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -858,11 +858,11 @@
           <odeIdeviceId>idevice-1776100490162-cuv0aiyht</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/2.png" title="Imágen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/2.png" width="1414" height="2000" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100490162-cuv0aiyht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/2.png\" title=\"Imágen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100490162-cuv0aiyht","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/2.png\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -904,11 +904,11 @@
           <odeIdeviceId>idevice-1776100513890-nyvs5b1kv</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/3.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/3.png" width="1414" height="2000" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100513890-nyvs5b1kv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/3.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100513890-nyvs5b1kv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/3.png\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -950,11 +950,11 @@
           <odeIdeviceId>idevice-1776100533446-qvks3q88d</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/4.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+    <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/4.png" width="1414" height="2000" alt="" />
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100533446-qvks3q88d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/4.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100533446-qvks3q88d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/4.png\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -997,10 +997,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/5.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100552407-mk0pvar7x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/5.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100552407-mk0pvar7x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/5.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1043,10 +1043,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/6.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100573975-ficz86sqn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/6.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100573975-ficz86sqn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/6.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1089,10 +1089,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/7.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100591092-5204diyti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/7.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100591092-5204diyti","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/7.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1135,10 +1135,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/8.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100610542-8134w2ldy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/8.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100610542-8134w2ldy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/8.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1181,10 +1181,10 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <figure class="exe-figure position-center" style="width: 1414px;"><img src="{{context_path}}/content/resources/9.png" title="Imagen canva" width="1414" height="2000" alt="" />
-<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">https://canva.link/bs09s9r8ycbcidg</a>. <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+<figcaption class="figcaption"><a href="https://canva.link/bs09s9r8ycbcidg" class="author" target="_blank" rel="noopener">Ana Becerra Ruiz</a>. <span class="title"><em>Línea temporal</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
 </figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100631695-ca0ucvasc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/9.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">https://canva.link/bs09s9r8ycbcidg</a>. <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776100631695-ca0ucvasc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1414px;\"><img src=\"{{context_path}}/content/resources/9.png\" title=\"Imagen canva\" width=\"1414\" height=\"2000\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://canva.link/bs09s9r8ycbcidg\" class=\"author\" target=\"_blank\" rel=\"noopener\">Ana Becerra Ruiz</a>. <span class=\"title\"><em>Línea temporal</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1285,10 +1285,13 @@
           <odeIdeviceId>idevice-1776101459378-yax73lo8h</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><img src="{{context_path}}/content/resources/Rúbrica evaluación..1.jpeg" width="1440" height="1018" alt="" />La rúbrica se utilizará para evaluar la coherencia y cohesión del texto, la estructura (inicio, nudo y desenlace), la adecuación al tipo de texto (cuento, cartel, correo), la corrección ortográfica y la creatividad.</p>
+    <figure class="exe-figure position-center" style="width: 1440px;"><img src="{{context_path}}/content/resources/Rúbrica evaluación..1.jpeg" width="1440" height="1018" alt="" />
+<figcaption class="figcaption"><span class="author">Ana Becerra Ruiz</span>. <span class="title"><em>Diana de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>La rúbrica se utilizará para evaluar la coherencia y cohesión del texto, la estructura (inicio, nudo y desenlace), la adecuación al tipo de texto (cuento, cartel, correo), la corrección ortográfica y la creatividad.</p>
 <p>Se aplicará durante la producción de los textos, la revisión y la evaluación final.</p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776101459378-yax73lo8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Rúbrica evaluación..1.jpeg\" width=\"1440\" height=\"1018\" alt=\"\" />La rúbrica se utilizará para evaluar la coherencia y cohesión del texto, la estructura (inicio, nudo y desenlace), la adecuación al tipo de texto (cuento, cartel, correo), la corrección ortográfica y la creatividad.</p>\n<p>Se aplicará durante la producción de los textos, la revisión y la evaluación final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776101459378-yax73lo8h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 1440px;\"><img src=\"{{context_path}}/content/resources/Rúbrica evaluación..1.jpeg\" width=\"1440\" height=\"1018\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Becerra Ruiz</span>. <span class=\"title\"><em>Diana de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>La rúbrica se utilizará para evaluar la coherencia y cohesión del texto, la estructura (inicio, nudo y desenlace), la adecuación al tipo de texto (cuento, cartel, correo), la corrección ortográfica y la creatividad.</p>\n<p>Se aplicará durante la producción de los textos, la revisión y la evaluación final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1331,9 +1334,12 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>El alumnado reflexionará sobre su participación, esfuerzo, aprendizaje y uso de herramientas digitales.</p>
-<p>Se realizará al final de la situación de aprendizaje.<img src="{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro.png" width="1440" height="1018" alt="" /></p>
+<p>Se realizará al final de la situación de aprendizaje.</p>
+<figure class="exe-figure position-center" style="width: 724px;"><img src="{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro.png" width="724" height="512" alt="" />
+<figcaption class="figcaption"><span class="author">Ana Becerra Ruiz</span>. <span class="title"><em>Diana de evaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY</a><span class="sep">)</span></span></figcaption>
+</figure>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776101501464-aqjpevuk5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado reflexionará sobre su participación, esfuerzo, aprendizaje y uso de herramientas digitales.</p>\n<p>Se realizará al final de la situación de aprendizaje.<img src=\"{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro.png\" width=\"1440\" height=\"1018\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776101501464-aqjpevuk5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El alumnado reflexionará sobre su participación, esfuerzo, aprendizaje y uso de herramientas digitales.</p>\n<p>Se realizará al final de la situación de aprendizaje.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 724px;\"><img src=\"{{context_path}}/content/resources/Diana de Evaluación Educación Blanco Negro.png\" width=\"724\" height=\"512\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Ana Becerra Ruiz</span>. <span class=\"title\"><em>Diana de evaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1781,7 +1787,7 @@
       <odeBlockId>block-1776104648738-grxwjefco</odeBlockId>
       <blockName>Créditos finales.</blockName>
       <iconName>share</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1827,56 +1833,10 @@
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-1776097075765-t5qvvyvgt</odePageId>
-      <odeBlockId>block-1776104677639-enh73t50x</odeBlockId>
-      <blockName>Botón de descarga.</blockName>
-      <iconName>share</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-1776097075765-t5qvvyvgt</odePageId>
-          <odeBlockId>block-1776104677639-enh73t50x</odeBlockId>
-          <odeIdeviceId>idevice-1776104677638-cbq6oyh6c</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><br /></p>
-<p></p>
-<p>https://drive.google.com/file/d/1U3usvPyxNu422UtJPqBVjbA9QoCjGKor/view?usp=sharing</p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776104677638-cbq6oyh6c","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p></p>\n<p>https://drive.google.com/file/d/1U3usvPyxNu422UtJPqBVjbA9QoCjGKor/view?usp=sharing</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-1776097075765-t5qvvyvgt</odePageId>
       <odeBlockId>block-1776104709424-jx028uokx</odeBlockId>
       <blockName>Publicación.</blockName>
       <iconName>share</iconName>
-      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1909,6 +1869,68 @@
     <p>Este proyecto puede visualizarse a través de la plataforma donde haya sido publicado (Moodle o repositorio web).</p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1776104709423-1p7ib3ypt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto puede visualizarse a través de la plataforma donde haya sido publicado (Moodle o repositorio web).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776097075765-t5qvvyvgt</odePageId>
+      <odeBlockId>block-1777908976455-klb41ojq2</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776097075765-t5qvvyvgt</odePageId>
+          <odeBlockId>block-1777908976455-klb41ojq2</odeBlockId>
+          <odeIdeviceId>idevice-1777908976454-fpocyn3mn</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Creamos textos digitales.</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje dirigida a alumnado de 6º de Primaria centrada en la producción de distintos tipos de textos utilizando herramientas digitales.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Ana Becerra Ruiz</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
